@@ -13,10 +13,12 @@
   "keywords": [
     "chatbot",
     "koishi",
-    "plugin"
+    "plugin",
+    "lolicon"
   ],
   "devDependencies": {},
   "peerDependencies": {
-    "koishi": "^4.17.11"
+    "koishi": "^4.17.11",
+    "koishi-plugin-pixluna": "^1.0.0"
   }
 }
